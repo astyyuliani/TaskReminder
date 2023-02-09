@@ -2,8 +2,7 @@
 Kelarin( Pengingat Tugas) untuk membantu para mahasiswa dalam membentuk kebiasaan produktif nya, agar segala kegiatan akademis dan non akademis beserta tugas-tugas nya dapat terselesaikan sesuai dengan porsi dan batas waktu nya.
 
 # Menu App
-
-* 1) Beranda
+- 1) Beranda
 Tampilan awal terdapat list semua tugas yang telah dijadwalkan dan dibuat remainder-nya. 
 Setiap tampilan tugas terdapat judul dan waktu serta dibungkus dengan tema yang telah disesuaikan.
 

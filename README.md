@@ -1,5 +1,6 @@
 # TaskReminder
-Kelarin( Pengingat Tugas) untuk membantu para mahasiswa dalam membentuk kebiasaan produktif nya, agar segala kegiatan akademis dan non akademis beserta tugas-tugas nya dapat terselesaikan sesuai dengan porsi dan batas waktu nya.
+Kelarin( Pengingat Tugas) untuk membantu para mahasiswa dalam membentuk kebiasaan produktif nya, 
+agar segala kegiatan akademis dan non akademis beserta tugas-tugas nya dapat terselesaikan sesuai dengan porsi dan batas waktu nya.
 
 ### Menu App :
 - ### *Home*
@@ -12,11 +13,11 @@ Kelarin( Pengingat Tugas) untuk membantu para mahasiswa dalam membentuk kebiasaa
 
 -  ### Menu *calendar task*
     Pada bagian luar dari menu kalender, terdapat semua tanggal dalam satu bulan yang ketika di tekan salah 
-    satu tanggal nya, maka akan masuk ke halaman pembuatan *reminder* tugas berdasrkan tanggal tersebut. 
+    satu tanggal nya, maka akan masuk ke halaman pembuatan *reminder* tugas berdasarkan tanggal tersebut. 
     Selain itu, pada bagian bawah terdapat *list* dari berbagai tugas *reminder* dalam satu bulan.
   
     Pada bagian dalam dari menu kalender, merupakan fitur yang berfungsi untuk membuat *reminder* baru 
-    dengan inputan
+    dengan inputan,
   
     Berupa: Judul tugas, waktu tugas, tanggal tugas, deskripsi tugas, dan pemilihan *ringtone*.
 

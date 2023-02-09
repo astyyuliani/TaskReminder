@@ -5,15 +5,19 @@ agar segala kegiatan akademis dan non akademis beserta tugas-tugas nya dapat ter
 ### Menu App :
 - ### *Home*
   Tampilan awal terdapat *list* semua tugas yang telah dijadwalkan dan dibuat *reminder*.
+  
   Setiap tampilan tugas terdapat judul dan waktu serta dibungkus dengan tema yang telah disesuaikan.
 
 - ### Menu *Alarm Task* 
   Pada fitur ini akan menampilkan informasi detail dari tugas yang telah dibuat, yaitu judul tugas, waktu tugas,
+  
   deskripsi tugas, *ringtone* pengingat dan opsi untuk memilih tema atau *background* dari tampilan tugas tersebut.
 
 -  ### Menu *Calendar Task*
-    Pada bagian luar dari menu kalender, terdapat semua tanggal dalam satu bulan yang ketika di tekan salah 
-    satu tanggal nya, maka akan masuk ke halaman pembuatan *reminder* tugas berdasarkan tanggal tersebut. 
+    Pada bagian luar dari menu kalender, terdapat semua tanggal dalam satu bulan yang ketika di tekan salah
+    
+    satu tanggal nya, maka akan masuk ke halaman pembuatan *reminder* tugas berdasarkan tanggal tersebut.
+    
     Selain itu, pada bagian bawah terdapat *list* dari berbagai tugas *reminder* dalam satu bulan.
   
     Pada bagian dalam dari menu kalender, merupakan fitur yang berfungsi untuk membuat *reminder* baru 

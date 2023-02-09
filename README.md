@@ -4,8 +4,7 @@ agar segala kegiatan akademis dan non akademis beserta tugas-tugas nya dapat ter
 
 ### Menu App :
 - ### *Home*
-  Tampilan awal terdapat *list* semua tugas yang telah dijadwalkan dan dibuat *reminder*.
-  
+  Tampilan awal terdapat *list* semua tugas yang telah dijadwalkan dan dibuat *reminder*. -
   Setiap tampilan tugas terdapat judul dan waktu serta dibungkus dengan tema yang telah disesuaikan.
 
 - ### Menu *Alarm Task* 

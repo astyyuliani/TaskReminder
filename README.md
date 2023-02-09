@@ -4,9 +4,10 @@ agar segala kegiatan akademis dan non akademis beserta tugas-tugas nya dapat ter
 sesuai dengan porsi dan batas waktu nya.
 
 ### Menu App :
-- ### *Home*
-  Tampilan awal terdapat *list* semua tugas yang telah dijadwalkan dan dibuat *reminder*.
-  Setiap tampilan tugas terdapat judul dan waktu serta dibungkus dengan tema yang telah disesuaikan.
+
+### *Home*
+- Menampilakan *list* semua tugas yang telah dijadwalkan dibuat *reminder*.
+  Tampilan awal terdapat *list* semua tugas yang telah dijadwalkan
 
 - ### Menu *Alarm Task* 
   Pada fitur ini akan menampilkan informasi detail dari tugas yang telah dibuat, yaitu judul tugas, waktu tugas,

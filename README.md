@@ -5,8 +5,8 @@ sesuai dengan porsi dan batas waktu nya.
 
 ### Menu App :
 
-### *Home*
-- Menampilakan *list* semua tugas yang telah dijadwalkan dibuat *reminder*.
+- ### *Home*
+  Menampilakan *list* semua tugas yang telah dijadwalkan dibuat *reminder*.
   Tampilan awal terdapat *list* semua tugas yang telah dijadwalkan
 
 - ### Menu *Alarm Task* 
